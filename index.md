@@ -72,3 +72,10 @@ layout: default
     *   Telenor: `telenor`
     *   Ufone: `ufone.internet` (或 `ufone.pinternet`)
 3.  其他字段（用户名/密码）通常留空
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Pakistan eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/pakistan-data-plans)
